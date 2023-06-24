@@ -1,7 +1,11 @@
 # SkyTowerAscension
-A Platformer 2D Game
+
+<img src="https://github.com/AndreProenza/SkyTowerAscension/assets/78174997/00097ad7-9380-47fd-ba5c-15d8f25939d2" alt="Sky_Tower Ascension" width="250"/>
+
 
 ## Introduction
+
+A platformer 2D game. 
 
 ---
 
