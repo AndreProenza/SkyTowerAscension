@@ -11,6 +11,8 @@ A platformer 2D game.
 
 ## Trailer
 
+[![Sky Tower Ascension Trailer](https://img.youtube.com/vi/5P-o-XwyQpM/0.jpg)](https://www.youtube.com/watch?v=5P-o-XwyQpM&t=1s&ab_channel=Andr%C3%A9Santos)
+
 ---
 
 # Table of Contents
