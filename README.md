@@ -17,8 +17,8 @@ A platformer 2D game.
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Trailer](trailer)
-3. [Download and Play](download-and-play)
+2. [Trailer](#trailer)
+3. [Download and Play](#download-and-play)
 4. [Used Technologies](#used-technologies)
 5. [Authors](#authors)
 
