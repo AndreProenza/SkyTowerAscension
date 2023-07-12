@@ -1,6 +1,6 @@
 # SkyTowerAscension
 
-<img src="https://github.com/AndreProenza/SkyTowerAscension/assets/78174997/00097ad7-9380-47fd-ba5c-15d8f25939d2" alt="Sky_Tower Ascension" width="250"/>
+<img src="https://github.com/AndreProenza/SkyTowerAscension/assets/78174997/7bc9222b-e31e-4c7c-9c01-fc7fec2ac529" alt="Sky_Tower Ascension" width="250"/>
 
 ---
 
